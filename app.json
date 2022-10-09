@@ -1,7 +1,7 @@
 {
     "name": "Music Bot",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
-    "logo": "https://github.com/LEGEND-AI/LEGEND-MUSIC/raw/master/theme/logo.png",
+    "logo": "https://te.legra.ph/file/c4ffad012292d4b4cb6bc.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
